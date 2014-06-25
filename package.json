@@ -1,7 +1,11 @@
 {
-  "name": "node_copter",
+  "name": "node-flight-school",
   "version": "0.1.0",
   "description": "hacking the flying robots",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mediasuitenz/node-flight-school.git"
+  },
   "main": "index.js",
   "dependencies": {
     "ar-drone": "~0.3.2"
