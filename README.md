@@ -2,6 +2,10 @@
 
 ### A handy helper for getting into some programmatically controlled flying robots
 
+## Prior learning
+
+We recommend familiarising yourself with the AR-Drone and general information about these types of events first. See http://nodecopter.com/hack for some good tips, and a bunch of inspiring modules that others have made.
+
 ## Instructions:
 
 * Make sure you have node and npm installed
