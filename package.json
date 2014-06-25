@@ -1,6 +1,6 @@
 {
   "name": "node_copter",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "hacking the flying robots",
   "main": "index.js",
   "dependencies": {
